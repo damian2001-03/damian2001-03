@@ -1,4 +1,10 @@
-### Hi there 👋
+ <b>Hi there 👋</b></br>
+🤚 I'm Mariusz🙂</br>
+🌱 I’m currently learning programming in Python🐍</br>
+🔭 I'm interested in creates Websites🌐</br>
+⛳ My hobby are: Music🎧 and Video Games🎮</br>
+📫 How to reach me: 📧damian2001-03@wp.pl</br>
+
 
 <!--
 **damian2001-03/damian2001-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
