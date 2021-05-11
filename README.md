@@ -2,9 +2,8 @@
 🤚 I'm Mariusz🙂</br>
 🌱 I’m currently learning programming in Python🐍</br>
 🔭 I'm interested in creates Websites🌐</br>
-👨‍💻 I know basic technologies: ✔️HTML, ✔️CSS,</br> ✔️JavaScript, ✔️PHP, ✔️MySQL, ✔️Python</br>
 ⛳ My hobby are: Music🎧 and Video Games🎮</br>
-📫 How to reach me: 📧damian2001-03@wp.pl</br>
+📫 How to contact me: 📧damian2001-03@wp.pl</br>
 
 
 <!--
